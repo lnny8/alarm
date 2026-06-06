@@ -1,0 +1,1 @@
+since this is a IOS app there is unfortunately no other method to try it out than looking at my devlogs or cloning the repo and running it in XCode :(
